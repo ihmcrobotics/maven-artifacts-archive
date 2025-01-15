@@ -11,7 +11,7 @@
 
   <groupId>us.ihmc</groupId>
   <artifactId>librealsense2</artifactId>
-  <version>2.53.1-1.5.11-ihmc-2</version>
+  <version>2.53.1-1.5.11-ihmc-3</version>
   <name>JavaCPP Presets for librealsense2</name>
 
   <dependencies>
