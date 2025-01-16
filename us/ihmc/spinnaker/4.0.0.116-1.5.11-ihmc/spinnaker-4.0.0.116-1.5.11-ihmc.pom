@@ -6,12 +6,12 @@
   <parent>
     <groupId>us.ihmc</groupId>
     <artifactId>javacpp-presets</artifactId>
-    <version>1.5.11</version>
+    <version>1.5.11-ihmc-3</version>
   </parent>
 
   <groupId>us.ihmc</groupId>
   <artifactId>spinnaker</artifactId>
-  <version>4.0.0.116-1.5.11</version>
+  <version>4.0.0.116-1.5.11-ihmc</version>
   <name>JavaCPP Presets for Spinnaker</name>
 
   <dependencies>
